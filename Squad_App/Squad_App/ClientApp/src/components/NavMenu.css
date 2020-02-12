@@ -1,0 +1,46 @@
+﻿a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+
+.border-h1 {
+    
+    text-align: center;
+    color: #92E4B2;
+    padding-top: 20px;
+    padding-bottom: 20px;    
+    
+}
+
+.border-div {
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgba(0, 0, 0, 0.125);
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: rgba(0, 0, 0, 0.125);
+}
+
+.txtprof {
+    font-size: 25px !important;
+    font-weight: lighter !important;
+}
+
+.txtsquad {
+    font-size: 25px;
+}
